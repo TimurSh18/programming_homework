@@ -8,4 +8,4 @@ int result = number / 10;
 
 // Находим вторую цифру из имеюшихся двух:
 result = result % 10;
-Console.WriteLine(result);
+Console.WriteLine($"Вторая цифра сгенерированного числа -> {result}");
