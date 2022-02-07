@@ -9,6 +9,7 @@ int lastDigit = number % 10;
 //Находим первую цифру числа 
 int firstDigit = number / 100;
 
+
 //Выводим первоначальное число без второй цифры 
 int result = firstDigit*10 + lastDigit;
 Console.WriteLine($"Число после удаления второй цифры -> {result}");
