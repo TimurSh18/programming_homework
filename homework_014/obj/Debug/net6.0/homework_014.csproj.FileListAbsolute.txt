@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Homework_c#\homework_014\bin\Debug\net6.0\homework_014.exe
+C:\Users\Asus\Desktop\Homework_c#\homework_014\bin\Debug\net6.0\homework_014.deps.json
+C:\Users\Asus\Desktop\Homework_c#\homework_014\bin\Debug\net6.0\homework_014.runtimeconfig.json
+C:\Users\Asus\Desktop\Homework_c#\homework_014\bin\Debug\net6.0\homework_014.dll
+C:\Users\Asus\Desktop\Homework_c#\homework_014\bin\Debug\net6.0\ref\homework_014.dll
+C:\Users\Asus\Desktop\Homework_c#\homework_014\bin\Debug\net6.0\homework_014.pdb
+C:\Users\Asus\Desktop\Homework_c#\homework_014\obj\Debug\net6.0\homework_014.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Homework_c#\homework_014\obj\Debug\net6.0\homework_014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Homework_c#\homework_014\obj\Debug\net6.0\homework_014.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Homework_c#\homework_014\obj\Debug\net6.0\homework_014.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Homework_c#\homework_014\obj\Debug\net6.0\homework_014.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Homework_c#\homework_014\obj\Debug\net6.0\homework_014.dll
+C:\Users\Asus\Desktop\Homework_c#\homework_014\obj\Debug\net6.0\ref\homework_014.dll
+C:\Users\Asus\Desktop\Homework_c#\homework_014\obj\Debug\net6.0\homework_014.pdb
+C:\Users\Asus\Desktop\Homework_c#\homework_014\obj\Debug\net6.0\homework_014.genruntimeconfig.cache
