@@ -3,6 +3,7 @@
 int number = new Random().Next(1,100);
 Console.WriteLine("Сгенерировано число:" + number);
 
+
 //делим с остатком на 2
 int ostatok = number % 2;
 
