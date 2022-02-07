@@ -8,6 +8,7 @@ string secondNumber = Console.ReadLine();
 int numberOne = int.Parse(firstNumber);
 int numberTwo = int.Parse(secondNumber);
 
+
 if(numberOne > numberTwo)
 {
     Console.Write($"Наибольшее число = {numberOne}. Наименьшее число = {numberTwo}");
