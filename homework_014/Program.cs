@@ -12,3 +12,4 @@ if (int.TryParse(valueStr, out int valueInt))
 
 else
 Console.WriteLine("В данном числе отсутствует третья цифра");
+//
