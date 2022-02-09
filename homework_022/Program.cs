@@ -26,7 +26,7 @@ if (a == 2) // Выбрано 2D пространство
     Console.Write($"Расстояние между точками в 2D пространстве = {distance2D}");
 }
 
-if (a == 3) // Выбрано 3D пространство
+else if (a == 3) // Выбрано 3D пространство
 {
     Console.WriteLine("Введите координаты для первой точки(x, y, z): ");
     string x13DStr = Console.ReadLine();
@@ -58,7 +58,8 @@ if (a == 3) // Выбрано 3D пространство
 
 
     double distance3D = Math.Sqrt(xSum3D+ySum3D+zSum3D);
-    Console.Write($"Расстояние между точками в 2D пространстве = {distance3D}");
+    Console.Write($"Расстояние между точками в 3D пространстве = {distance3D}");
 }
-else
+
+else if (a!=2 || a!=3)
 Console.Write("Вы ввели неверное число пространства! Введите 2 либо 3");
